@@ -1,1 +1,2 @@
-print('深圳大学是最强的')
+sequence = 1
+print(f'深圳技术大学排行第{sequence}名')
